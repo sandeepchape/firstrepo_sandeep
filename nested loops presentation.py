@@ -17,7 +17,7 @@ for i,j in D.items():
             max=q
             empty_dict.update(j)
             empty_dict.update({p:q})
-#l.append(empty_dict)
+
 print(empty_dict)
 # new changes to the file after uploadation
 
